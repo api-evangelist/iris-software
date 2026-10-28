@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-IRIS Software Group is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.iris.co.uk/
+IRIS Software Group provides business software solutions for mission‑critical tasks across accounting, payroll, HR, education, financials and more. Their AI‑powered platforms help organisations manage finance, human resources, payroll and education operations efficiently, serving customers worldwide.
+
+**Areas:** Company · Software · Accounting · Payroll · HR · Education
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.iris.co.uk/)
+- [Documentation](https://www.iris.co.uk/guides/)
+- [Support](https://www.iris.co.uk/)
+- [Blog](https://www.iris.co.uk/blog/)
+- [Terms of service](https://www.iris.co.uk/legal/website-terms-conditions/)
+- [Privacy policy](https://www.iris.co.uk/legal/privacy-statement/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/iris-software/](https://apis.io/providers/iris-software/).
